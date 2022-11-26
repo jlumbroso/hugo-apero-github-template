@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://jlumbroso.github.io/hugo-apero-github-template/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
