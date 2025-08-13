@@ -16,11 +16,10 @@ First, make sure you have the latest version of the distill package installed fr
 Restart your R session. If you use RStudio, use the menu item *Session \> Restart R* or the associated keyboard shortcut:
 
 -   <kbd>Ctrl + Shift + F10</kbd> (Windows and Linux) or
--   <kbd>Command + Shift + F10<kbd> (Mac OS).
+-   <kbd>Command + Shift + F10</kbd> (Mac OS).
 
-```{=html}
 <!-- -->
-```
+
     packageVersion("distill")
     [1] ‘1.2’
 
@@ -88,7 +87,7 @@ create_article(file = "about",         # future name of .Rmd file
                package = "postcards")
 ```
 
-[Reminder: templates]({{< ref "/02-postcards#templates" >}} "Postcards templates")
+[Reminder: templates]({{< ref "/collection/day01/02-postcards#templates" >}} "Postcards templates")
 
 
 ## Site navigation
