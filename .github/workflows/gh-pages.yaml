@@ -5,6 +5,12 @@ on:
     branches:
       - main # Set a branch to deploy
 
+# Permissions to ensure the workflow can write to the repository and pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   deploy:
     runs-on: ubuntu-22.04
