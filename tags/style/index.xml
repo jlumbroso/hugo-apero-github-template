@@ -1,3 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>style on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/tags/style/</link><description>Recent content in style on Hugo Apéro</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/tags/style/index.xml" rel="self" type="application/rss+xml"/><item><title>Style your site colors</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/color-themes/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/color-themes/</guid><description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description></item><item><title>Style your site typography</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/fonts/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/fonts/</guid><description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Style on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/tags/style/</link><description>Recent content in Style on Hugo Apéro</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/tags/style/index.xml" rel="self" type="application/rss+xml"/><item><title>Style your site colors</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/color-themes/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/color-themes/</guid><description>&lt;p>You can totally customize your site&amp;rsquo;s theme colors within minutes of
+creating a new site. Read on to find out how, and decide which of the
+three options meets your needs.&lt;/p>
+
+
+
+
+&lt;h2 id="use-a-color-theme">Use a color theme
+ &lt;a href="#use-a-color-theme">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo;
+This means you can use a color theme to quickly customize the look of your site
+without needing to write any CSS. You can select the color theme in your &lt;code>config.toml&lt;/code> file. Scroll down to find:&lt;/p></description></item><item><title>Style your site typography</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/fonts/</link><pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/fonts/</guid><description>&lt;p>As with 
+&lt;a href="../color-themes">color themes&lt;/a>, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.&lt;/p>
+
+
+
+
+&lt;h2 id="embedded-fonts">Embedded fonts
+ &lt;a href="#embedded-fonts">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include 
+&lt;a href="https://www.marksimonson.com/notebook/view/FakevsTrueItalics" target="_blank" rel="noopener">real italics&lt;/a> so you may &lt;em>emphasize&lt;/em> to your &lt;em>heart&amp;rsquo;s&lt;/em> content :heart:! How to choose?&lt;/p></description></item></channel></rss>

@@ -1,10 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Day 01 on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/</link><description>Recent content in Day 01 on Hugo Apéro</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/index.xml" rel="self" type="application/rss+xml"/><item><title>A GitHub profile</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/01-github/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/01-github/</guid><description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README This is new! Let&amp;rsquo;s do it:
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description></item><item><title>A postcard</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/02-postcards/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/02-postcards/</guid><description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;#34;postcards&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
-Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;postcards&amp;#34;) [1] ‘0.2.0’ Create GitHub repo Online.
-Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-postcard.git&amp;#34;) ✨ Commit &amp;amp; Push! ✨</description></item><item><title>A distill site</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/03-distill/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/03-distill/</guid><description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:
-install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
-Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’ Create GitHub repo Online.
-Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) ✨ Commit &amp;amp; Push!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Day 01 on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/</link><description>Recent content in Day 01 on Hugo Apéro</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/index.xml" rel="self" type="application/rss+xml"/><item><title>A GitHub profile</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/01-github/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/01-github/</guid><description>&lt;h2 id="profile">Profile
+ &lt;a href="#profile">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>
+&lt;a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile" target="_blank" rel="noopener">https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile&lt;/a>&lt;/p>
+
+
+
+
+&lt;h2 id="pin-projects-to-profile">Pin projects to profile
+ &lt;a href="#pin-projects-to-profile">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>
+&lt;a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile" target="_blank" rel="noopener">https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile&lt;/a>&lt;/p>
+
+
+
+
+&lt;h2 id="profile-readme">Profile README
+ &lt;a href="#profile-readme">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>This is new! Let&amp;rsquo;s do it:&lt;/p></description></item><item><title>A postcard</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/02-postcards/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/02-postcards/</guid><description>&lt;h2 id="pre-requisites">Pre-requisites
+ &lt;a href="#pre-requisites">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>First, make sure you have the latest version of the postcards package installed from CRAN:&lt;/p>
+&lt;pre tabindex="0">&lt;code>install.packages(&amp;#34;postcards&amp;#34;)
+&lt;/code>&lt;/pre>&lt;p>Restart your R session. If you use RStudio, use the menu item &lt;em>Session &amp;gt; Restart R&lt;/em> or the associated keyboard shortcut:&lt;/p>
+&lt;ul>
+&lt;li>&lt;kbd>Ctrl + Shift + F10&lt;/kbd> (Windows and Linux) or&lt;/li>
+&lt;li>&lt;kbd>Command + Shift + F10&lt;kbd> (Mac OS).&lt;/li>
+&lt;/ul>
+&lt;pre tabindex="0">&lt;code>packageVersion(&amp;#34;postcards&amp;#34;)
+[1] ‘0.2.0’
+&lt;/code>&lt;/pre>
+
+
+
+&lt;h2 id="create-github-repo">Create GitHub repo
+ &lt;a href="#create-github-repo">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>Online.&lt;/p></description></item><item><title>A distill site</title><link>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/03-distill/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/collection/day01/03-distill/</guid><description>&lt;h2 id="pre-requisites">Pre-requisites
+ &lt;a href="#pre-requisites">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>First, make sure you have the latest version of the distill package installed from CRAN:&lt;/p>
+&lt;pre>&lt;code>install.packages(&amp;quot;distill&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;p>Restart your R session. If you use RStudio, use the menu item &lt;em>Session &amp;gt; Restart R&lt;/em> or the associated keyboard shortcut:&lt;/p>
+&lt;ul>
+&lt;li>&lt;kbd>Ctrl + Shift + F10&lt;/kbd> (Windows and Linux) or&lt;/li>
+&lt;li>&lt;kbd>Command + Shift + F10&lt;/kbd> (Mac OS).&lt;/li>
+&lt;/ul>
+&lt;!-- -->
+&lt;pre>&lt;code>packageVersion(&amp;quot;distill&amp;quot;)
+[1] ‘1.2’
+&lt;/code>&lt;/pre>
+
+
+
+
+&lt;h2 id="create-github-repo">Create GitHub repo
+ &lt;a href="#create-github-repo">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;p>Online.&lt;/p></description></item></channel></rss>

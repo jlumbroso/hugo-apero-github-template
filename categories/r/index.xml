@@ -1,10 +1,282 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/categories/r/</link><description>Recent content in R on Hugo Apéro</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/categories/r/index.xml" rel="self" type="application/rss+xml"/><item><title>A first post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</guid><description> Hi, I'm the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
-beginning middle end</description></item><item><title>A second post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</guid><description> Hi, I'm the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /hugo-apero-github-template/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready!</description></item><item><title>A third post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</guid><description>Hi, I'm the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You'll want to edit this file, then re-knit to see the changes take effect in your site preview.
-To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog My layout is: single-series Images in this page bundle: /hugo-apero-github-template/blog/spoonful-series/03-spoonful/featured-photo.</description></item><item><title>Tachyons for Style</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/giraffes/</link><pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/giraffes/</guid><description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description></item><item><title>Palmer Penguins</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/penguins/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/penguins/</guid><description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description></item><item><title>Bakeoff</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/bakeoff/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/bakeoff/</guid><description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description></item><item><title>A Spoonful of Hugo</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/</guid><description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R on Hugo Apéro</title><link>https://jlumbroso.github.io/hugo-apero-github-template/categories/r/</link><description>Recent content in R on Hugo Apéro</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jlumbroso.github.io/hugo-apero-github-template/categories/r/index.xml" rel="self" type="application/rss+xml"/><item><title>A first post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/01-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+ &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
+ &lt;p>Use me to find your way in your website.&lt;/p>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">Here I am:&lt;/dt>
+ &lt;dd class="fw5 ml0">content/blog/spoonful-series/01-spoonful.md&lt;/dd>
+ &lt;/dl>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;p>&lt;i class="far fa-trash-alt pr2">&lt;/i>To remove me, delete this line inside that file: &lt;code>{{&amp;lt; here &amp;gt;}}&lt;/code>&lt;/p>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">My content section is:&lt;/dt>
+ &lt;dd class="fw5 ml0">blog&lt;/dd>
+ &lt;/dl>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">My layout is:&lt;/dt>
+ &lt;dd class="fw5 ml0">single-series&lt;/dd>
+ &lt;/dl>
+ 
+ 
+
+&lt;/details>
+
+
+
+
+&lt;h2 id="does-this-work">does this work?
+ &lt;a href="#does-this-work">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+
+
+
+
+&lt;h3 id="or-this">or this?
+ &lt;a href="#or-this">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h3>
+&lt;hr>
+&lt;p>Let&amp;rsquo;s start.&lt;/p></description></item><item><title>A second post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/02-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+ &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
+ &lt;p>Use me to find your way in your website.&lt;/p>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">Here I am:&lt;/dt>
+ &lt;dd class="fw5 ml0">content/blog/spoonful-series/02-spoonful/index.md&lt;/dd>
+ &lt;/dl>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;p>&lt;i class="far fa-trash-alt pr2">&lt;/i>To remove me, delete this line inside that file: &lt;code>{{&amp;lt; here &amp;gt;}}&lt;/code>&lt;/p>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">My content section is:&lt;/dt>
+ &lt;dd class="fw5 ml0">blog&lt;/dd>
+ &lt;/dl>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">My layout is:&lt;/dt>
+ &lt;dd class="fw5 ml0">single-series&lt;/dd>
+ &lt;/dl>
+ 
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">Images in this page bundle:&lt;/dt>
+ 
+ &lt;dd class="fw5 ml0">/hugo-apero-github-template/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg&lt;/dd>
+ 
+ &lt;/dl>
+ 
+
+&lt;/details>
+
+
+
+
+&lt;h2 id="part-2">part 2!
+ &lt;a href="#part-2">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+
+
+
+
+&lt;h3 id="does-this-work">does this work?
+ &lt;a href="#does-this-work">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h3>
+&lt;hr>
+
+
+
+
+&lt;h2 id="now-for-some-very-cool-things">now for some very cool things
+ &lt;a href="#now-for-some-very-cool-things">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+
+
+
+
+&lt;h2 id="more">more
+ &lt;a href="#more">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+
+
+
+
+&lt;h2 id="get-ready">get ready!
+ &lt;a href="#get-ready">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2></description></item><item><title>A third post</title><link>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/blog/spoonful-series/03-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1">
+ &lt;summary>&lt;i class="fas fa-cat fa-lg pr2">&lt;/i>Hi, I'm the here-bot cat!&lt;/summary>
+ &lt;p>Use me to find your way in your website.&lt;/p>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">Here I am:&lt;/dt>
+ &lt;dd class="fw5 ml0">content/blog/spoonful-series/03-spoonful/index.markdown&lt;/dd>
+ &lt;/dl>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">Here is my R Markdown source file:&lt;/dt>
+ &lt;dd class="fw5 ml0">blog/spoonful-series/03-spoonful/index.Rmarkdown&lt;/dd>
+ &lt;p class="i">&lt;i class="far fa-hand-point-up pr2">&lt;/i>You'll want to edit this file, then re-knit to see the changes take effect in your site preview.&lt;/p> 
+ &lt;/dl>
+ 
+ 
+ &lt;p>&lt;i class="far fa-trash-alt pr2">&lt;/i>To remove me, delete this line inside that file: &lt;code>{{&amp;lt; here &amp;gt;}}&lt;/code>&lt;/p>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">My content section is:&lt;/dt>
+ &lt;dd class="fw5 ml0">blog&lt;/dd>
+ &lt;/dl>
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">My layout is:&lt;/dt>
+ &lt;dd class="fw5 ml0">single-series&lt;/dd>
+ &lt;/dl>
+ 
+ 
+ &lt;dl class="f5 lh-copy">
+ &lt;dt class="fw7">Images in this page bundle:&lt;/dt>
+ 
+ &lt;dd class="fw5 ml0">/hugo-apero-github-template/blog/spoonful-series/03-spoonful/featured-photo.jpg&lt;/dd>
+ 
+ &lt;/dl>
+ 
+
+&lt;/details>
+
+
+
+
+&lt;h2 id="are-you-still-here">are you still here?
+ &lt;a href="#are-you-still-here">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+
+
+
+
+&lt;h3 id="does-this-work">does this work?
+ &lt;a href="#does-this-work">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h3>
+&lt;hr>
+
+
+
+
+&lt;h2 id="final-stretch">final stretch!
+ &lt;a href="#final-stretch">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2></description></item><item><title>Tachyons for Style</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/giraffes/</link><pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/giraffes/</guid><description>&lt;p>&lt;img src="tachyons-logo-script.png" alt="Tachyons Logo Script">&lt;/p>
+
+
+
+
+&lt;h2 id="tachyons-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort">
+&lt;a href="http://tachyons.io" target="_blank" rel="noopener">Tachyons&lt;/a> is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+ &lt;a href="#tachyons-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;hr>
+
+
+
+
+&lt;h3 id="because-speed">Because Speed
+ &lt;a href="#because-speed">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h3>
+&lt;p>Building this static site generator theme was the first time I used an Atomic
+(or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides
+very small (which means fast) CSS modules that you can use in your HTML. So,
+rather than writing every line of CSS, you apply the style you need as you write
+your HTML with easy to understand shorthand class names. This makes for a very
+powerful way to style, in the browser, or while building a static site like this
+one – since you can see every change with every save. &lt;strong>It&amp;rsquo;s a joy to use.&lt;/strong>&lt;/p></description></item><item><title>Palmer Penguins</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/penguins/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/penguins/</guid><description>&lt;h3 id="grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”
+ &lt;a href="#grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h3>
+&lt;p>&lt;em>— 
+&lt;a href="http://chris.house/blog/a-complete-guide-css-grid-layout/" target="_blank" rel="noopener">Chris House, A Complete Guide to CSS Grid Layout&lt;/a>&lt;/em> &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;hr>
+&lt;p>Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code>TABLE&lt;/code>.&lt;/p></description></item><item><title>Bakeoff</title><link>https://jlumbroso.github.io/hugo-apero-github-template/project/bakeoff/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://jlumbroso.github.io/hugo-apero-github-template/project/bakeoff/</guid><description>&lt;p>&lt;img src="formspree-logo.png" alt="Formspree Logo">&lt;/p>
+
+
+
+
+&lt;h2 id="formspree-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website">
+&lt;a href="https://formspree.io" target="_blank" rel="noopener">Formspree&lt;/a> makes it easy to receive submissions from HTML forms on your static website.
+ &lt;a href="#formspree-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h2>
+&lt;hr>
+
+
+
+
+&lt;h3 id="functional-form">Functional Form
+ &lt;a href="#functional-form">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
+ &lt;/svg>&lt;/a>
+&lt;/h3>
+&lt;p>This theme has a &lt;strong>form-to-email&lt;/strong> feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
+(&lt;code>/content/forms/contact.md&lt;/code>). Of course, the example shown below (&lt;code>your@email.here&lt;/code>) must not be used. Please use your actual email address.&lt;/p></description></item></channel></rss>
